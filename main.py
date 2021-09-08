@@ -28,13 +28,15 @@ class Mammal:
 # THE FOLLOWING TWO CLASSES NEED TO BE COMPLETED, AND YOU
 # NEED TO REPLACE/DELETE ALL OF THE ELLIPSES SHOWN BELOW
 
-class Hippo ...
-    ...
-    ...
+class Hippo
+  pass
+  
+  
 
-class Elephant ...
-    ...
-    ...
+class Elephant
+  pass
+    
+    
 
 
 class TestMammals(unittest.TestCase):
